@@ -21,4 +21,4 @@ This system was designed based on Software Requirements Engineering principles:
 1. Ensure Python 3.8+ is installed on your environment.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/hospital-management-system.git](https://github.com/YOUR_USERNAME/hospital-management-system.git)
+   git clone [https://github.com/cezekakpu7871-code/hospital-management-system.git](https://github.com/cezekakpu7871-code/hospital-management-system.git)
