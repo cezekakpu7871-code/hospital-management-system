@@ -22,3 +22,7 @@ This system was designed based on Software Requirements Engineering principles:
 2. Clone this repository:
    ```bash
    git clone [https://github.com/cezekakpu7871-code/hospital-management-system.git](https://github.com/cezekakpu7871-code/hospital-management-system.git)
+
+   ## Author
+- **Developer:** Chisomeme Ezekakpu
+- **Contact:** ezekakpuchisomeme@gmail.com
